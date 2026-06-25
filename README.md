@@ -34,39 +34,32 @@ I design and deploy real-time computer vision systems for defence applications �
 
 ## ⚡ Current Work
 
-```python
-current_role = {
-    "position" : "Computer Vision Engineer",
-    "domain"   : "Defence R&D",
-    "location" : "United Kingdom",
-    "focus"    : [
-        "Real-time computer vision pipelines for defence applications",
-        "TensorRT deployment · INT8 / FP16 quantisation on NVIDIA Jetson",
-        "Post-Training Quantisation (PTQ) & Quantization-Aware Training (QAT)",
-        "Multi-object detection & tracking at production scale",
-        "CUDA-accelerated inference · ONNX model interoperability",
-        "AI performance benchmarking · profiling · production pipeline optimisation",
-    ]
-}
-```
+**Computer Vision Engineer — Defence R&D · United Kingdom**
+
+Designing and deploying production-grade computer vision systems for real-time defence applications. Focus on the full pipeline from model development through to optimised embedded deployment on NVIDIA Jetson hardware.
+
+| Area | Detail |
+|---|---|
+| **CV Pipelines** | Real-time object detection & multi-object tracking for defence applications |
+| **Embedded Deployment** | TensorRT · INT8 / FP16 quantisation · NVIDIA Jetson platforms |
+| **Model Optimisation** | Post-Training Quantisation (PTQ) · Quantization-Aware Training (QAT) |
+| **Acceleration** | CUDA-accelerated inference · ONNX interoperability · GPU profiling |
+| **Benchmarking** | AI performance benchmarking · latency profiling · production pipeline analysis |
 
 ---
 
 ## 🔬 Current Research
 
-```python
-research = {
-    "primary" : "GPS-Denied UAV Navigation for Autonomous Systems",
-    "topics"  : [
-        "Visual Odometry & Visual-Inertial Odometry (VIO)",
-        "SLAM — Simultaneous Localisation and Mapping",
-        "Multi-Sensor Fusion  (Camera · IMU · LiDAR)",
-        "Reinforcement Learning for autonomous robotic control",
-        "Edge AI · real-time inference on resource-constrained platforms",
-        "Autonomous UAV perception in contested / denied environments",
-    ]
-}
-```
+**Primary:** GPS-Denied UAV Navigation for Autonomous Systems in Contested Environments
+
+| Topic | Description |
+|---|---|
+| **Visual Odometry** | Monocular & stereo VO · Visual-Inertial Odometry (VIO) |
+| **SLAM** | Simultaneous Localisation and Mapping for GPS-denied platforms |
+| **Sensor Fusion** | Camera · IMU · LiDAR multi-sensor integration |
+| **Autonomous Navigation** | UAV autonomy in denied / degraded environments |
+| **Reinforcement Learning** | RL-based control for autonomous robotic systems |
+| **Edge AI** | Real-time inference on resource-constrained embedded platforms |
 
 ---
 
