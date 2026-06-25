@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=280&section=header&text=Senithu%20Dampegama&fontSize=58&fontColor=fff&fontAlignY=42&desc=Computer%20Vision%20Engineer%20%7C%20Defence%20R%26D%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=280&section=header&text=Senithu%20Dampegama&fontSize=58&fontColor=fff&fontAlignY=42&desc=Computer%20Vision%20Engineer%20%7C%20Defence%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=17" width="100%"/>
 
 <br/>
 
