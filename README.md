@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d14,30:0a192f,70:0d1117,100:060d14&height=300&section=header&text=Senithu%20Dampegama&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Computer%20Vision%20Engineer%20%7C%20Defence%20R%26D%20%7C%20Robotics%20Engineer&descAlignY=58&descSize=17&descColor=76b900" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1117,100:0a192f&height=280&section=header&text=Senithu%20Dampegama&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Computer%20Vision%20Engineer%20%7C%20Defence%20R%26D%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=17&descColor=76b900" width="100%"/>
 
 <br/>
 
@@ -189,11 +189,13 @@ Designing and deploying production-grade computer vision systems for real-time d
 
 ---
 
-## 🏆 Trophies
+## 📡 Profile
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SenithuDampegama&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SenithuDampegama&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/SenithuDampegama?style=for-the-badge&color=76b900&labelColor=0d1117&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/SenithuDampegama?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=STARS)
 
 </div>
 
@@ -229,7 +231,7 @@ Designing and deploying production-grade computer vision systems for real-time d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:060d14&height=100&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a192f&height=100&section=footer" width="100%"/>
 
 <sub>Computer Vision · Defence R&D · Autonomous Systems · Edge AI</sub>
 
