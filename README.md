@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1117,100:0a192f&height=280&section=header&text=Senithu%20Dampegama&fontSize=58&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Computer%20Vision%20Engineer%20%7C%20Defence%20R%26D%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=17&descColor=76b900" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=280&section=header&text=Senithu%20Dampegama&fontSize=58&fontColor=fff&fontAlignY=42&desc=Computer%20Vision%20Engineer%20%7C%20Defence%20R%26D%20%7C%20Robotics%20Engineer&descAlignY=60&descSize=17" width="100%"/>
 
 <br/>
 
@@ -184,32 +184,6 @@ Designing and deploying production-grade computer vision systems for real-time d
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenithuDampegama&theme=react-dark&bg_color=0d1117&color=00d4ff&line=76b900&point=00d4ff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff" width="100%"/>
-
-</div>
-
----
-
-## 📡 Profile
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SenithuDampegama&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/SenithuDampegama?style=for-the-badge&color=76b900&labelColor=0d1117&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/SenithuDampegama?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=STARS)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SenithuDampegama/SenithuDampegama/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SenithuDampegama/SenithuDampegama/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/SenithuDampegama/SenithuDampegama/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
 
 </div>
 
